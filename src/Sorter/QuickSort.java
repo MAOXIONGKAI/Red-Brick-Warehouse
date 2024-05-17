@@ -1,6 +1,5 @@
 package Sorter;
 
-import Helper.Swapper;
 import Helper.Partitioner;
 
 public class QuickSort {
