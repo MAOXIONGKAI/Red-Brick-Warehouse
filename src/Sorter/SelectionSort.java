@@ -1,5 +1,7 @@
 package Sorter;
 
+import Helper.Swapper;
+
 public class SelectionSort {
     /**
      * A simple implementation of selection sort

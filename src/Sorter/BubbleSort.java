@@ -1,5 +1,7 @@
 package Sorter;
 
+import Helper.Swapper;
+
 public class BubbleSort {
     /**
      * A simple implementation of bubble sort.

@@ -1,4 +1,4 @@
-package Sorter;
+package Helper;
 
 public class Swapper {
     public static <T> void swapArrayElement(T[] arr, int i, int j) {

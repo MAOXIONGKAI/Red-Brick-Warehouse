@@ -1,5 +1,7 @@
 package Sorter;
 
+import Helper.Swapper;
+
 public class InsertionSort {
     /**
      * A helper method which inserts the element at index i of the given array
